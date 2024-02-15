@@ -15,3 +15,5 @@ Data whisperer turned analyst extraordinaire. I specialize in unraveling complex
 👨‍💻 All of my projects are available [here](https://github.com/Sudhandiradhivya/Sudhandiradhivya/blob/main/README.md)
 
 
+Skills
+PythonPostgreSQLMySQLExcel
