@@ -17,4 +17,4 @@ Data whisperer turned analyst extraordinaire. I specialize in unraveling complex
 
 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,ExcelWorkbook,Power BI Desktop&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,excelp&theme=light)](https://skillicons.dev)
