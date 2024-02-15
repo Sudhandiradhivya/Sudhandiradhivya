@@ -17,4 +17,4 @@ Data whisperer turned analyst extraordinaire. I specialize in unraveling complex
 
 Skills
 
-pymysqlExcel
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
