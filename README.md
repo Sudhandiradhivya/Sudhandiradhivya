@@ -16,4 +16,5 @@ Data whisperer turned analyst extraordinaire. I specialize in unraveling complex
 
 
 Skills
-PythonPostgreSQLMySQLExcel
+
+pymysqlExcel
